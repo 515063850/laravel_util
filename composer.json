@@ -1,0 +1,14 @@
+{
+    "name": "tanyong/laravel-util",
+    "autoload": {
+        "psr-4": {
+            "Tanyong\\LaravelUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tanyong"
+        }
+    ],
+    "require": {}
+}
