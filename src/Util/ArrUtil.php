@@ -10,6 +10,12 @@ namespace Tanyong\LaravelUtil\Util;
 
 class ArrUtil
 {
+    /**
+     * Notes:我是谁
+     * Author:tanyong
+     * DateTime:2022/8/25
+     * @param array $arr
+     */
     public static function paramsToString(array &$arr)
     {
         foreach($arr as $k=>$v)
